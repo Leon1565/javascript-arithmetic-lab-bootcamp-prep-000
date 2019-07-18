@@ -21,6 +21,6 @@ function dec(a){
 function makeInt(n){
   return parseInt(n)
 }
-function makeInt(0x2328){
-  return parseFloat(0x2328)
+function makeInt(10.958){
+  return parseInt(10.958)
 }
