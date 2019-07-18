@@ -22,7 +22,6 @@ function makeInt(n){
   return parseInt(n)
 }
 function makeInt(n){
-  return parseInt(n)
+  return parseFloat(n)
 }
-makeInt(0.999)
 
