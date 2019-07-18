@@ -24,5 +24,5 @@ function makeInt(n){
 function makeInt(number){
   return parseInt(number)
 }
-makeInt(0x2328)
+makeInt(0.999)
 
